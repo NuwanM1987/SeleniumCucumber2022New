@@ -1,0 +1,85 @@
+2022-10-23 23:04:59,428 [main] INFO SeleniumCucumber2022 - *** Launching browser ***
+2022-10-23 23:04:59,434 [main] INFO SeleniumCucumber2022 - *** Launching URL ***
+2022-10-23 23:05:11,556 [main] INFO SeleniumCucumber2022 - *** Click login ***
+2022-10-23 23:05:34,653 [main] INFO SeleniumCucumber2022 - *** Adding new customer ***
+2022-10-23 23:05:47,448 [main] INFO SeleniumCucumber2022 - *** Saving customer information ***
+2022-10-23 23:05:51,200 [main] INFO SeleniumCucumber2022 - *** Customer added successful ***
+2022-10-23 23:06:08,269 [main] INFO SeleniumCucumber2022 - *** Launching browser ***
+2022-10-23 23:06:08,270 [main] INFO SeleniumCucumber2022 - *** Launching URL ***
+2022-10-23 23:06:19,545 [main] INFO SeleniumCucumber2022 - *** Click login ***
+2022-10-23 23:07:00,138 [main] INFO SeleniumCucumber2022 - *** Launching browser ***
+2022-10-23 23:07:00,139 [main] INFO SeleniumCucumber2022 - *** Launching URL ***
+2022-10-23 23:07:13,310 [main] INFO SeleniumCucumber2022 - *** Click login ***
+2022-10-23 23:07:36,699 [main] INFO SeleniumCucumber2022 - *** Launching browser ***
+2022-10-23 23:07:36,700 [main] INFO SeleniumCucumber2022 - *** Launching URL ***
+2022-10-23 23:07:48,040 [main] INFO SeleniumCucumber2022 - *** Click login ***
+2022-10-23 23:08:06,201 [main] INFO SeleniumCucumber2022 - *** Launching browser ***
+2022-10-23 23:08:06,203 [main] INFO SeleniumCucumber2022 - *** Launching URL ***
+2022-10-23 23:08:17,576 [main] INFO SeleniumCucumber2022 - *** Click login ***
+2022-10-23 23:08:55,929 [main] INFO SeleniumCucumber2022 - *** Launching browser ***
+2022-10-23 23:08:55,930 [main] INFO SeleniumCucumber2022 - *** Launching URL ***
+2022-10-23 23:09:07,338 [main] INFO SeleniumCucumber2022 - *** Click login ***
+2022-10-24 09:37:14,262 [main] INFO SeleniumCucumber2022 - *** Launching browser ***
+2022-10-24 09:37:14,396 [main] INFO SeleniumCucumber2022 - *** Launching URL ***
+2022-10-24 09:37:26,256 [main] INFO SeleniumCucumber2022 - *** Click login ***
+2022-10-24 09:57:57,042 [main] INFO SeleniumCucumber2022 - *** Launching browser ***
+2022-10-24 09:57:57,070 [main] INFO SeleniumCucumber2022 - *** Launching URL ***
+2022-10-24 09:58:09,198 [main] INFO SeleniumCucumber2022 - *** Click login ***
+2022-10-24 09:58:32,676 [main] INFO SeleniumCucumber2022 - *** Adding new customer ***
+2022-10-24 10:59:49,520 [main] INFO SeleniumCucumber2022 - *** Launching browser ***
+2022-10-24 10:59:49,537 [main] INFO SeleniumCucumber2022 - *** Launching URL ***
+2022-10-24 11:00:02,100 [main] INFO SeleniumCucumber2022 - *** Click login ***
+2022-10-24 11:00:26,047 [main] INFO SeleniumCucumber2022 - *** Adding new customer ***
+2022-10-24 11:00:38,855 [main] INFO SeleniumCucumber2022 - *** Saving customer information ***
+2022-10-24 11:00:42,521 [main] INFO SeleniumCucumber2022 - *** Customer added successful ***
+2022-10-24 11:01:01,154 [main] INFO SeleniumCucumber2022 - *** Launching browser ***
+2022-10-24 11:01:01,157 [main] INFO SeleniumCucumber2022 - *** Launching URL ***
+2022-10-24 11:01:12,559 [main] INFO SeleniumCucumber2022 - *** Click login ***
+2022-10-24 11:01:52,963 [main] INFO SeleniumCucumber2022 - *** Launching browser ***
+2022-10-24 11:01:52,965 [main] INFO SeleniumCucumber2022 - *** Launching URL ***
+2022-10-24 11:02:06,845 [main] INFO SeleniumCucumber2022 - *** Click login ***
+2022-10-24 11:35:54,154 [main] INFO SeleniumCucumber2022 - *** Launching browser ***
+2022-10-24 11:35:54,174 [main] INFO SeleniumCucumber2022 - *** Launching URL ***
+2022-10-24 11:36:06,372 [main] INFO SeleniumCucumber2022 - *** Click login ***
+2022-10-24 11:36:30,939 [main] INFO SeleniumCucumber2022 - *** Adding new customer ***
+2022-10-24 11:36:43,646 [main] INFO SeleniumCucumber2022 - *** Saving customer information ***
+2022-10-24 11:36:47,645 [main] INFO SeleniumCucumber2022 - *** Customer added successful ***
+2022-10-24 11:37:04,737 [main] INFO SeleniumCucumber2022 - *** Launching browser ***
+2022-10-24 11:37:04,745 [main] INFO SeleniumCucumber2022 - *** Launching URL ***
+2022-10-24 11:37:16,935 [main] INFO SeleniumCucumber2022 - *** Click login ***
+2022-11-25 08:48:17,929 [main] INFO SeleniumCucumber2022 - *** Launching browser ***
+2022-11-25 08:48:18,077 [main] INFO SeleniumCucumber2022 - *** Launching URL ***
+2022-11-25 08:48:30,785 [main] INFO SeleniumCucumber2022 - *** Click login ***
+2022-11-25 08:49:04,898 [main] INFO SeleniumCucumber2022 - *** Adding new customer ***
+2022-11-25 08:49:19,045 [main] INFO SeleniumCucumber2022 - *** Saving customer information ***
+2022-11-25 08:49:23,643 [main] INFO SeleniumCucumber2022 - *** Customer added successful ***
+2022-11-25 08:49:25,048 [main] INFO SeleniumCucumber2022 - *** Launching browser ***
+2022-11-25 08:49:25,054 [main] INFO SeleniumCucumber2022 - *** Launching URL ***
+2022-11-25 08:49:36,938 [main] INFO SeleniumCucumber2022 - *** Click login ***
+2022-11-25 11:17:35,164 [main] INFO SeleniumCucumber2022 - *** Launching browser ***
+2022-11-25 11:17:35,189 [main] INFO SeleniumCucumber2022 - *** Launching URL ***
+2022-11-25 11:17:47,169 [main] INFO SeleniumCucumber2022 - *** Click login ***
+2022-11-25 11:18:09,442 [main] INFO SeleniumCucumber2022 - *** Adding new customer ***
+2022-11-25 11:18:22,221 [main] INFO SeleniumCucumber2022 - *** Saving customer information ***
+2022-11-25 11:18:25,819 [main] INFO SeleniumCucumber2022 - *** Customer added successful ***
+2022-11-25 11:18:26,693 [main] INFO SeleniumCucumber2022 - *** Launching browser ***
+2022-11-25 11:18:26,696 [main] INFO SeleniumCucumber2022 - *** Launching URL ***
+2022-11-25 11:18:38,608 [main] INFO SeleniumCucumber2022 - *** Click login ***
+2022-11-26 22:33:22,583 [main] INFO SeleniumCucumber2022 - *** Launching browser ***
+2022-11-26 22:33:22,723 [main] INFO SeleniumCucumber2022 - *** Launching URL ***
+2022-11-26 22:33:35,548 [main] INFO SeleniumCucumber2022 - *** Click login ***
+2022-11-26 22:34:03,971 [main] INFO SeleniumCucumber2022 - *** Adding new customer ***
+2022-11-26 22:34:16,776 [main] INFO SeleniumCucumber2022 - *** Saving customer information ***
+2022-11-26 22:34:20,720 [main] INFO SeleniumCucumber2022 - *** Customer added successful ***
+2022-11-26 22:34:38,546 [main] INFO SeleniumCucumber2022 - *** Launching browser ***
+2022-11-26 22:34:38,550 [main] INFO SeleniumCucumber2022 - *** Launching URL ***
+2022-11-26 22:34:51,210 [main] INFO SeleniumCucumber2022 - *** Click login ***
+2022-11-27 14:05:22,211 [main] INFO SeleniumCucumber2022 - *** Launching browser ***
+2022-11-27 14:05:22,254 [main] INFO SeleniumCucumber2022 - *** Launching URL ***
+2022-11-27 14:05:35,195 [main] INFO SeleniumCucumber2022 - *** Click login ***
+2022-11-27 14:05:57,342 [main] INFO SeleniumCucumber2022 - *** Adding new customer ***
+2022-11-27 14:06:10,045 [main] INFO SeleniumCucumber2022 - *** Saving customer information ***
+2022-11-27 14:06:13,625 [main] INFO SeleniumCucumber2022 - *** Customer added successful ***
+2022-11-27 14:06:15,146 [main] INFO SeleniumCucumber2022 - *** Launching browser ***
+2022-11-27 14:06:15,150 [main] INFO SeleniumCucumber2022 - *** Launching URL ***
+2022-11-27 14:06:27,705 [main] INFO SeleniumCucumber2022 - *** Click login ***

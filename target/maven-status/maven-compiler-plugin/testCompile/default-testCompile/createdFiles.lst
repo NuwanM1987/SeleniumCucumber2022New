@@ -1,0 +1,8 @@
+pageObejects\SearchCustomerPage.class
+stepDefinitions\BaseClass.class
+utilities\WaitHelper.class
+pageObejects\AddCustomerPage.class
+stepDefinitions\Steps.class
+myRunner\TestRunner.class
+pageObejects\LoginPage.class
+stepDefinitions\OrangeHrmstepdefinitions.class
